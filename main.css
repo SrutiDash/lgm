@@ -71,7 +71,6 @@ input, button {
 	cursor: pointer;
 	transition: 0.4s;
 }
-/* linear-gradient(to right, var(--blue), var(--darkblue)) */
 #new-task-submit:hover {
 	opacity: 0.8;
 }
